@@ -1,14 +1,7 @@
 <div align="center">
 
 # Hi, I'm Michele Missiroli 👋
-
 ### Hardware Engineering · Politecnico di Milano
-
-Building things that move, sense, and decide.
-From CubeSat attitude control to conversational AI on humanoid robots.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/michele-missiroli)
-
 </div>
 
 ---
