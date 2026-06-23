@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Michele Missiroli 👋
+# Hi, I'm Michele Missiroli 🔭
 ### Hardware Engineering · Politecnico di Milano
 </div>
 
@@ -9,8 +9,6 @@
 ## 👨‍💻 About
 
 I hold an Electronics Technician diploma (a 5-year technical specialization in electronics), and I'm now continuing on to Electtronic Engineering at Politecnico di Milano. That path means the theory is backed by bench time: reading schematics, soldering and troubleshooting circuits, and diagnosing hardware faults by hand, well before any of it became a Simulink model.
-
-Today that shows up as working at the boundary between hardware and code: closing control loops, getting microcontrollers to talk over flaky serial links, and running attitude-control algorithms in processor-in-the-loop rigs before they ever touch flight hardware.
 
 Right now I'm going deep on FPGA development, RISC-V architecture, and real-time embedded systems.
 
@@ -39,6 +37,7 @@ Right now I'm going deep on FPGA development, RISC-V architecture, and real-time
 
 **Control & Simulation**
 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge)
 ![PSpice](https://img.shields.io/badge/PSpice-EE3524?style=for-the-badge)
 ![LTspice](https://img.shields.io/badge/LTspice-005696?style=for-the-badge)
