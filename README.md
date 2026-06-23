@@ -2,9 +2,6 @@
 
 # Hi, I'm Michele Missiroli 🔭
 ### Hardware Engineering · Politecnico di Milano
-</div>
-
----
 
 ## 👨‍💻 About
 
