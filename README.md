@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Michele Missiroli 🔭
-### Hardware Engineering · Politecnico di Milano
 
 ## 👨‍💻 About
 
