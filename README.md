@@ -8,7 +8,9 @@
 
 ## 👨‍💻 About
 
-I'm an engineering student working at the boundary between hardware and code: closing control loops, getting microcontrollers to talk over flaky serial links, and running attitude-control algorithms in processor-in-the-loop rigs before they ever touch flight hardware.
+I hold an Electronics Technician diploma (a 5-year technical specialization in electronics), and I'm now continuing on to Electtronic Engineering at Politecnico di Milano. That path means the theory is backed by bench time: reading schematics, soldering and troubleshooting circuits, and diagnosing hardware faults by hand, well before any of it became a Simulink model.
+
+Today that shows up as working at the boundary between hardware and code: closing control loops, getting microcontrollers to talk over flaky serial links, and running attitude-control algorithms in processor-in-the-loop rigs before they ever touch flight hardware.
 
 Right now I'm going deep on FPGA development, RISC-V architecture, and real-time embedded systems.
 
@@ -16,21 +18,18 @@ Right now I'm going deep on FPGA development, RISC-V architecture, and real-time
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logoColor=white)
-
-**Embedded & Hardware**
-
 ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-2C2255?style=for-the-badge)
-![Serial Comms](https://img.shields.io/badge/Serial_Comms-555555?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-CC0000?style=for-the-badge&logo=verilog&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-4C3C8C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Control & Simulation**
+**PCB & FPGA Tools**
 
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge)
-![Control Systems](https://img.shields.io/badge/Control_Systems-4B0082?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5CC39?style=for-the-badge)
+![Xilinx Vivado](https://img.shields.io/badge/Vivado-E2231A?style=for-the-badge)
 
 **Tools**
 
@@ -38,12 +37,11 @@ Right now I'm going deep on FPGA development, RISC-V architecture, and real-time
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-## 📊 GitHub Stats
+**Control & Simulation**
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hinnhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinnhi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge)
+![PSpice](https://img.shields.io/badge/PSpice-EE3524?style=for-the-badge)
+![LTspice](https://img.shields.io/badge/LTspice-005696?style=for-the-badge)
 
 ## 🐍 Contribution Snake
 
