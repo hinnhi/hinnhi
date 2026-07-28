@@ -7,21 +7,3 @@
 ## About
 
 I hold an Electronics Technician diploma (a 5-year technical specialization in electronics), and I'm now continuing on to Electtronic Engineering at Politecnico di Milano. That path means the theory is backed by bench time: reading schematics, soldering and troubleshooting circuits, and diagnosing hardware faults by hand.
-
-Right now I'm going deep on FPGA development, RISC-V architecture, and real-time embedded systems.
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Verilog](https://img.shields.io/badge/Verilog-CC0000?style=for-the-badge&logo=verilog&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-4C3C8C?style=for-the-badge)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**PCB & FPGA Tools**
-
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5CC39?style=for-the-badge)
-![Xilinx Vivado](https://img.shields.io/badge/Vivado-E2231A?style=for-the-badge)
